@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Caleb-J-Hill.github.io/sitemap.xml
+Sitemap: https://caleb-j-hill.github.io/sitemap.xml

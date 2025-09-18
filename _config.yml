@@ -194,6 +194,7 @@ exclude:
   - vendor
   - blog.md #delete if want the blog tab and page and same for the ones below
   - repositories.md
+  - profiles.md
   
 keep_files:
   - CNAME

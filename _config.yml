@@ -194,7 +194,7 @@ exclude:
   - vendor
   - blog.md #delete if want the blog tab and page and same for the ones below
   - repositories.md
-  -
+  
 keep_files:
   - CNAME
   - .nojekyll

@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uwyo.edu/economics/index.html'>UWyo</a> | chill40@uwyo.edu Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.uwyo.edu/economics/index.html'>UWyo</a> | chill40@uwyo.edu
 
 profile:
   align: right
   image: CECD16AE-5E8C-435A-9189-6592C7E8C7EE.jpeg 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>#555 your office number</p>
+    <p>#123 your address street</p>
+    <p>#Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

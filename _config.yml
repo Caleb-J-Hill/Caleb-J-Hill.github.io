@@ -195,6 +195,8 @@ exclude:
   - _pages/blog.md #delete if want the blog tab and page and same for the ones below
   - _pages/repositories.md
   - _pages/profiles.md
+  - _pages/publications.md
+  - _pages/teaching.md
   
 keep_files:
   - CNAME

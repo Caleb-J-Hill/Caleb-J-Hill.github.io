@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects # This is the tab title you see
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true

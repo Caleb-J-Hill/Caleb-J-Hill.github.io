@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: bookshelf # This is the tab title you see
 permalink: /books/
 nav: false
 collection: books

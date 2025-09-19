@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: news # This is the tab title you see
 permalink: /news/
 ---
 

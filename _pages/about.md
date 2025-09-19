@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.uwyo.edu/economics/index.html'>UWyo</a> | chill40@uwyo.edu
 

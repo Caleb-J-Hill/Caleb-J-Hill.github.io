@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: About # This is the tab title you see
 permalink: /
 subtitle: <a href='https://www.uwyo.edu/economics/index.html'>UWyo</a> | chill40@uwyo.edu
 

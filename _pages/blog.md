@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: blog # This is the tab title you see
 nav: true
 nav_order: 1
 pagination:

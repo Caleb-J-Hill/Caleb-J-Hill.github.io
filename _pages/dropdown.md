@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submenus
+title: Submenus # This is the tab title you see
 nav: true
 nav_order: 8
 dropdown: true

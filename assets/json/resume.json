@@ -19,13 +19,14 @@
   "institution": "University of Arkansas",
   "location": "Fayetteville, AR, USA",
   "url": "",
-  "studyType": "B.A., Economics (Minor: Mathematics), Cum Laude",
+  "studyType": "B.A., Economics, Cum Laude",
   "area": "",
   "startDate": "",
   "endDate": "2021-05-01",
-  "score": "GPA: 4.0",
   "courses": [
-    "J. William Fulbright College of Arts and Sciences Honors Program"
+    "J. William Fulbright College of Arts and Sciences Honors Program",
+    "GPA: 4.0",
+    "Minor: Mathematics"
   ]
 }
 ],

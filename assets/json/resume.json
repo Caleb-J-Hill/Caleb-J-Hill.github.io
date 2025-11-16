@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "sectionLabel": "Introduction",
+    "name": "Caleb J. Hill",
+    "label": "Economics PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chill40@uwyo.edu",
+    "url": "https://caleb-j-hill.github.io/",
+    "summary": "A third-year Economics PhD Student at The University of Wyoming. My interests lie at the intersection of environmental, public, and experimental economics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Laramie",
       "countryCode": "US",
-      "region": "California"
+      "region": "Wyoming"
     },
     "profiles": [
       {

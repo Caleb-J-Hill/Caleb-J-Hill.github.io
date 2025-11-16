@@ -16,19 +16,30 @@
   "work": [],
   "education": [
   {
-  "institution": "University of Arkansas",
-  "location": "Fayetteville, AR, USA",
-  "url": "",
-  "studyType": "B.A., Economics, Cum Laude",
-  "area": "",
-  "startDate": "2017",
-  "endDate": "2021",
-  "courses": [
-    "J. William Fulbright College of Arts and Sciences Honors Program",
-    "<b>GPA</b>: 4.0",
-    "<b>Minor</b>: Mathematics"
-  ]
-}
+    "institution": "University of Wyoming",
+    "location": "Laramie, WY, USA",
+    "studyType": "Economics, M.S./Ph.D.",
+    "area": "",
+    "startDate": "2023",
+    "endDate": "Present",
+    "courses": [
+      "Department of Economics"
+    ]
+  },
+  {
+    "institution": "University of Arkansas",
+    "location": "Fayetteville, AR, USA",
+    "url": "",
+    "studyType": "B.A., Economics, Cum Laude",
+    "area": "",
+    "startDate": "2017",
+    "endDate": "2021",
+    "courses": [
+      "J. William Fulbright College of Arts and Sciences Honors Program",
+      "<b>GPA</b>: 4.0",
+      "<b>Minor</b>: Mathematics"
+    ]
+  }
 ],
    "volunteer": [
     {

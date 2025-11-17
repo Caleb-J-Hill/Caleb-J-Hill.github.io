@@ -2,7 +2,7 @@
 layout: page
 title: Asymmetric Contests with Investment: An Experimental Investigation
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/contest_chess_1.jpg
 importance: 3
 category: Working Papers
 ---

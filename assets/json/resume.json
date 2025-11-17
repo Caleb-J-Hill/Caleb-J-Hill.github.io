@@ -42,17 +42,33 @@
   }
 ],
    "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  {
+    "organization": "Graduate Student Representatives, Economics Department",
+    "location": "Laramie, Wyoming",
+    "position": "Member",
+    "url": "",
+    "startDate": "2024",
+    "endDate": "\"Present\"",
+    "summary": "",
+    "highlights": [
+      "Organize and facilitate social events, brown bags, and joint seminars for the department.",
+      "Represent economics graduate students in discussioins with department faculty."
+    ]
+  },
+  {
+    "organization": "College of Business Student Advisory Committee",
+    "location": "Laramie, Wyoming",
+    "position": "Graduate Member",
+    "url": "",
+    "startDate": "2023",
+    "endDate": "Present",
+    "summary": "",
+    "highlights": [
+      "Serve as a connection between graduate students and the Dean’s Office.",
+      "Provide feedback to support the College of Business in achieving its strategic goals."
+    ]
+  }
+],
   "awards": [],
   "certificates": [],
   "publications": [],

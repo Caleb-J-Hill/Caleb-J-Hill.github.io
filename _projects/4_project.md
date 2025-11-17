@@ -4,7 +4,7 @@ title: project 4
 description: another without an image
 img:
 importance: 3
-category: Working Papers
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

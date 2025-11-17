@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects # This is the tab title you see
+title: Projects Backup # This is the tab title you see
 permalink: /projects/
 description: <!-- A growing collection of your cool projects.--> 
-nav: true
-nav_order: 3
+nav: false
+published: false
 display_categories: [work, fun]
 horizontal: false
 ---

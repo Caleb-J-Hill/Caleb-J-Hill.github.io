@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 9
+title: "Refundable Deposits and The Adoption of Biodegradable Fishing Gear: An Experimental Investigation "
 description: another project with an image 🎉
-img: assets/img/6.jpg
+img: assets/img/fishery2_1_ghostgear.jpg
 importance: 4
 category: Working Papers
 ---

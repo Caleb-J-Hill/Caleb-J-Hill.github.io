@@ -52,8 +52,8 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-.projects h2.category {
-  color: var(--global-theme-color);  // uses your #003366 from _themes.scss
-  opacity: 1;                        // make it fully opaque (not faint)
-  font-weight: 500;                  // optional: a bit bolder
+.projects .category {
+  opacity: 1 !important;
+  color: var(--global-theme-color) !important;
+  font-weight: 700;
 }

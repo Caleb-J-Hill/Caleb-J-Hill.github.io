@@ -57,3 +57,40 @@ body.sticky-bottom-footer {
   color: var(--global-theme-color) !important;
   font-weight: 700;
 }
+
+
+/* ---------------------------------------------------------------------------
+ * Research / ABS toggle
+ * -------------------------------------------------------------------------*/
+
+.abs-toggle {
+  margin-top: 0.25rem;
+}
+
+.abs-toggle > summary {
+  list-style: none;             // hide default triangle
+  cursor: pointer;
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--global-text-color-light);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+/* Remove the marker in different browsers */
+.abs-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+.abs-toggle > summary::marker {
+  content: "";
+}
+
+/* Style when open: filled blue pill */
+.abs-toggle[open] > summary {
+  background-color: var(--global-theme-color);
+  color: #fff;
+  border-color: var(--global-theme-color);
+}

@@ -14,7 +14,6 @@ nav_order: 3
 1. **Refundable Deposits and the Adoption of Biodegradable Fishing Gear: An Experimental Investigation**  
    with Todd L. Cherry, Huu-Luat Do, and David M. McEvoy  
    _Work in Progress, 2025._
-
    <details class="abs-toggle">
      <summary>ABS</summary>
      <p>
@@ -24,21 +23,21 @@ nav_order: 3
        fishing gear (ALDFG) pollution.
      </p>
    </details>
+   
 
 2. **Asymmetric Contests with Investment: An Experimental Investigation**  
    with Todd L. Cherry  
    _Work in Progress, 2025._
-
-<details class="abs-toggle">
-  <summary>ABS</summary>
-  <p>
-    This project examines how pre-contest investment interacts with cost
-    asymmetry in a two-stage Tullock contest. The theoretical model outlines
-    how cost asymmetry shapes investment, effort, and contest outcomes, and a
-    controlled laboratory experiment tests these predictions across symmetric
-    and asymmetric environments.
-  </p>
-</details>
+   <details class="abs-toggle">
+     <summary>ABS</summary>
+     <p>
+       This project examines how pre-contest investment interacts with cost
+       asymmetry in a two-stage Tullock contest. The theoretical model outlines
+       how cost asymmetry shapes investment, effort, and contest outcomes, and a
+       controlled laboratory experiment tests these predictions across symmetric
+       and asymmetric environments.
+     </p>
+   </details>
 
 ---
 

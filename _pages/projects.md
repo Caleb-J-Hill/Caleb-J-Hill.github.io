@@ -1,65 +1,47 @@
 ---
 layout: page
-title: Research # This is the tab title you see
+title: Research
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
-display_categories: [Publications, Working Papers]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Working Papers
 
-{% else %}
+### 2025
 
-<!-- Display projects without categories -->
+1. **Refundable Deposits and the Adoption of Biodegradable Fishing Gear: An Experimental Investigation**  
+   with Todd L. Cherry, Huu-Luat Do, and David M. McEvoy  
+   _Working paper, 2025._
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+   <details>
+     <summary><strong>ABS</strong></summary>
+     <p>
+     This project uses laboratory experiments to study how refundable deposit
+     mechanisms can support voluntary adoption of sustainable practices in the
+     context of biodegradable fishing gear and abandoned, lost, or discarded
+     fishing gear (ALDFG) pollution.
+     </p>
+   </details>
 
-  <!-- Generate cards for each project -->
+2. **Asymmetric Contests with Investment: An Experimental Investigation**  
+   with Todd L. Cherry  
+   _Working paper, 2025._
 
-{% if page.horizontal %}
+   <details>
+     <summary><strong>ABS</strong></summary>
+     <p>
+     This project examines how pre-contest investment interacts with cost
+     asymmetry in a two-stage Tullock contest. The theoretical model outlines
+     how cost asymmetry shapes investment, effort, and contest outcomes, and a
+     controlled laboratory experiment tests these predictions across symmetric
+     and asymmetric environments.
+     </p>
+   </details>
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+---
+
+## Publications
+
+_(None yet.)_

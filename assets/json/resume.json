@@ -81,18 +81,23 @@
     ]
   }
 ],
+  
+  "affiliations": [
+    {
+      "institution": "The Teton Lab",
+      "location": "Laramie, WY, USA",
+      "url": "https://www.teton-lab.org/",
+      "studyType": "Research Group",
+      "area": "Graduate Research Affiliate",
+      "startDate": "2024",
+      "endDate": "Present",
+      "courses": []
+    }
+  ],
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [
-  {
-    "name": "",
-    "level": "",
-    "keywords": [
-      "<a href='https://www.teton-lab.org/' target='_blank'>The Teton Lab</a>"
-    ]
-  }
-],
+  "skills": [],
   "languages": [],
   "interests": [],
   "references": [],

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects # This is the tab title you see
+title: Research # This is the tab title you see
 permalink: /projects/
 description: 
 nav: true

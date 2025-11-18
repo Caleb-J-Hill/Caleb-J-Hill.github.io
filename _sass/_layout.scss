@@ -95,3 +95,12 @@ body.sticky-bottom-footer {
   color: #fff;
   border-color: var(--global-theme-color);
 }
+
+/* ---------------------------------------------------------------------------
+ * Research section headings (Working Papers, Publications)
+ * -------------------------------------------------------------------------*/
+
+h2 .research-section-title {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}

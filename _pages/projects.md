@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## <span class="category">Working Papers</span>
+## <span class="research-section-title">Working Papers</span>
 
 ### 2025
 
@@ -41,6 +41,6 @@ nav_order: 3
 
 ---
 
-## <span class="category">Publications</span>
+## <span class="research-section-title">Publications</span>
 
 _(None yet.)_

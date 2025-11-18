@@ -422,9 +422,9 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-asymmetric-contests-with-investment-an-experimental-investigation",
-          title: 'Asymmetric Contests with Investment: An Experimental Investigation',
-          description: "a project with a background image",
+            },},{id: "projects-asymmetric-contests-with-investment",
+          title: 'Asymmetric Contests with Investment',
+          description: "An Experimental Investigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",

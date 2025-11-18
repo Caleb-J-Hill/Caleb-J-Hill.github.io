@@ -92,6 +92,8 @@ layout: default
               <h3 class="card-title font-weight-medium">About</h3>
             {% elsif data[0] == "projects" %}
               <h3 class="card-title font-weight-medium">Working Papers</h3>
+            {% elsif data[0] == "work" %}
+              <h3 class="card-title font-weight-medium">Academic Appointments</h3>
             {% else %}
               <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             {% endif %}

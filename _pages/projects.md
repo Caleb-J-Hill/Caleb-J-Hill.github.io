@@ -17,10 +17,7 @@ nav_order: 3
    <details class="abs-toggle">
      <summary>ABS</summary>
      <p>
-       This project uses laboratory experiments to study how refundable deposit
-       mechanisms can support voluntary adoption of sustainable practices in the
-       context of biodegradable fishing gear and abandoned, lost, or discarded
-       fishing gear (ALDFG) pollution.
+       Voluntary adoption of sustainable practices is essential for addressing environmental problems such as marine pollution and            ghost fishing caused by abandoned, lost, or discarded fishing gear (ALDFG). Yet sustaining compliance within voluntary                 agreements remains a key challenge. This study uses laboratory experiments to assess refundable deposit mechanisms that                promote the adoption of biodegradable fishing gear. Participants were assigned to one of four treatments: a baseline with no           agreement, a no-deposit agreement, an equal deposit scheme, and a heterogeneous (unequal) deposit scheme. Agreements formed            only if a minimum participation threshold was met, and deposits were refunded only when members fulfilled their commitments.           Results reveal a trade-off between participation and compliance: no-deposit agreements formed more frequently but yielded              lower adoption. Deposit-refund mechanisms improved compliance and adoption, with the heterogeneous deposit treatment performing        best, particularly among large players. These findings underscore the importance of incentive-compatible enforcement in                designing effective voluntary environmental programs.
      </p>
    </details>
    

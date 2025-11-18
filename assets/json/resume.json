@@ -84,10 +84,9 @@
   
   "affiliations": [
     {
-      "studyType": "The Teton Lab",
+      "institution": "The Teton Lab",
       "location": "Laramie, WY, USA",
       "url": "https://www.teton-lab.org/",
-      "institution": "University of Wyoming",
       "startDate": "2024",
       "endDate": "Present",
       "courses": []

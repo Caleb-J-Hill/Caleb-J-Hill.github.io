@@ -94,7 +94,7 @@ layout: default
               <h3 class="card-title font-weight-medium">Working Papers</h3>
             {% elsif data[0] == "work" %}
               <h3 class="card-title font-weight-medium">Academic Appointments</h3>
-            {% elsif data[0] == "skills" %}
+            {% elsif data[0] == "affiliations" %}
               <h3 class="card-title font-weight-medium">Affiliations</h3>
             {% else %}
               <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
@@ -115,6 +115,8 @@ layout: default
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
+                {% when 'affiliations' %}
+                  {% include resume/affiliations.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
@@ -125,9 +127,7 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
-                {% else %}
-
-              {% endcase %}
+            {% endcase %}
             </div>
           </div>
         {% endfor %}

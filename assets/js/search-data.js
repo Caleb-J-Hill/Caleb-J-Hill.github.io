@@ -442,9 +442,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-refundable-deposits-and-the-adoption-of-biodegradable-fishing-gear-an-experimental-investigation",
-          title: 'Refundable Deposits and The Adoption of Biodegradable Fishing Gear: An Experimental Investigation',
-          description: "another project with an image 🎉",
+            },},{id: "projects-refundable-deposits-and-the-adoption-of-biodegradable-fishing-gear",
+          title: 'Refundable Deposits and The Adoption of Biodegradable Fishing Gear',
+          description: "An Experimental Investigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

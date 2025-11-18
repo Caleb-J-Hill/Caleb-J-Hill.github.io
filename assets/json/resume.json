@@ -13,7 +13,18 @@
     },
     "profiles": []
   },
-  "work": [],
+ "work": [
+  {
+    "name": "Washington University in St. Louis",
+    "location": "St. Louis, MO, USA",
+    "position": "Pre-Doctoral Research Fellow",
+    "url": "",
+    "startDate": "2021",
+    "endDate": "2023",
+    "summary": "Olin Business School",
+    "highlights": []
+  }
+],
   "education": [
   {
     "institution": "University of Wyoming",

@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Economics PhD Student at The University of Wyoming. 
+I am a third-year Economics Ph.D. student at the University of Wyoming. My research interests lie at the intersection of environmental, public, and experimental economics.
 
-My interests lie at the intersection of environmental, public, and experimental economics. 
+Previously, I was a Pre-Doctoral Research Fellow at Washington University in St. Louis’s Olin Business School. I hold a B.A. in Economics with a minor in Mathematics from the University of Arkansas.
+
+Feel free to reach out with any questions or inquiries at chill40@uwyo.edu.

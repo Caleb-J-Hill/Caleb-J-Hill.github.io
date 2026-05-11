@@ -84,9 +84,9 @@
   
   "affiliations": [
     {
-      "institution": "The Teton Lab",
+      "institution": "The Teton Behavioral and Economic Science Lab",
       "location": "Laramie, WY, USA",
-      "url": "https://www.teton-lab.org/",
+      "url": "https://thetetonlab.org/",
       "startDate": "2024",
       "endDate": "Present",
       "courses": []
@@ -103,7 +103,7 @@
   {
     "name": "Refundable Deposits and The Adoption of Biodegradable Fishing Gear: An Experimental Investigation ",
     "summary": "This project uses laboratory experiments to study how refundable deposit mechanisms can support voluntary adoption of sustainable practices in the context of biodegradable fishing gear and abandoned, lost, or discarded fishing gear (ALDFG) pollution.",
-    "highlights": ["With Todd L. Cherry, Huu-Luat Do, and David M. McEvoy."],
+    "highlights": ["With Todd L. Cherry, Huu-Luat Do, and David M. McEvoy.", "Under Review."],
     "startDate": "2025",
     "endDate": "Present",
     "url": ""
@@ -111,7 +111,7 @@
   {
     "name": "Asymmetric Contests with Investment: An Experimental Investigation",
     "summary": "This project examines how pre-contest investment interacts with cost asymmetry in a two-stage Tullock contest. The theoretical model outlines how cost asymmetry shapes investment, effort, and contest outcomes. A controlled laboratory experiment is designed to test these predictions and evaluate behavior across symmetric and asymmetric environments.",
-    "highlights": ["With Todd L. Cherry."],
+    "highlights": ["With Todd L. Cherry.", "Under Review."],
     "startDate": "2025",
     "endDate": "Present",
     "url": ""

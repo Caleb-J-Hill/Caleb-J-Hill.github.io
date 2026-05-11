@@ -9,11 +9,11 @@ nav_order: 3
 
 ## <span class="research-section-title">Working Papers</span>
 
-### 2025
+### 2026
 
 1. **The voluntary adoption of biodegradable fishing gear: An experimental investigation of refundable deposits with heterogeneous agents**  
    with Todd L. Cherry, Huu-Luat Do, and David M. McEvoy  
-   _Work in Progress, 2025._
+   _Under Review, 2026._
    <details class="abs-toggle">
      <summary>ABS</summary>
      <p>
@@ -24,7 +24,7 @@ nav_order: 3
 
 2. **Asymmetric Contests with Investment: Theory and Experiments**  
    with Todd L. Cherry  
-   _Work in Progress, 2025._
+   _Under Review, 2026._
    <details class="abs-toggle">
      <summary>ABS</summary>
      <p>
